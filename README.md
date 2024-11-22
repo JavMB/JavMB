@@ -6,9 +6,9 @@ Soy **Javi**, estudiante de **Primero de DAM (Desarrollo de Aplicaciones Multipl
 
 ## 🌱 Actualmente estoy trabajando en:
 
-👉 [Repositorio del proyecto](https://github.com/luklpz/PracticaCalculadora)
+👉 [Calculadora Java](https://github.com/luklpz/PracticaCalculadora)
 
-👉 [Repositorio del proyecto](https://github.com/JavMB/Empresa)
+👉 [Web Api Spain data](https://github.com/JavMB/Empresa)
 
 
 ---
