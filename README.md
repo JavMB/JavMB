@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy **[Javier]**, estudiante de **Primero de DAM (Desarrollo de Aplicaciones Multiplataforma)**. Estoy aprendiendo a programar y dar mis primeros pasos en el mundo del desarrollo de software. 🚀
+Soy **Javi**, estudiante de **Primero de DAM (Desarrollo de Aplicaciones Multiplataforma)**. Estoy aprendiendo a programar y dar mis primeros pasos en el mundo del desarrollo de software. 🚀
 
 ---
 
