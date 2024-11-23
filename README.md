@@ -19,12 +19,6 @@ Soy **Javi**, estudiante de **Primero de DAM (Desarrollo de Aplicaciones Multipl
 
 ---
 
-## 🛠️ Tecnologías que estoy aprendiendo:
-- **Lenguajes**: Java, HTML, CSS
-- **Herramientas**: Git, VS Code
-
----
-
 ## 📫 Contacto:
 - **GitHub**: [github.com/JavMB](https://github.com/JavMB)
 - **Correo**: javiermengual@live.com
