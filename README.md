@@ -8,7 +8,7 @@ Soy **Javi**, estudiante de **Primero de DAM (Desarrollo de Aplicaciones Multipl
 
 👉 [Calculadora Java](https://github.com/luklpz/PracticaCalculadora)
 
-👉 [Web Api Spain data](https://github.com/JavMB/Empresa)
+👉 [Buscador de empleo IT](https://github.com/JavMB/SpainITJobFinder)
 
 
 ---
