@@ -4,7 +4,7 @@ Soy **Javi**, estudiante de **Primero de DAM (Desarrollo de Aplicaciones Multipl
 
 ---
 
-## 🌱 Actualmente estoy trabajando en:
+## 🌱 Proyectos:
 
 👉 [Calculadora Java](https://github.com/luklpz/PracticaCalculadora)
 
