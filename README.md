@@ -1,4 +1,3 @@
-![GitHub Banner](github-header-image.png)
 
 # 👋🏼 ¡Hola Mundo! Soy Javi, futuro developer 🚀
 
