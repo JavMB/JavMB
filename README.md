@@ -1,10 +1,10 @@
 
-# 👋🏼 ¡Hola Mundo! Soy Javi, futuro developer 🚀
+# 👋🏼 ¡Hola Mundo! Soy Javi, futuro developer 👻 
 
 ### Sobre mí
 - 🛜 Actualmente trabajando en mi propia [página web]()
 - 👨🏼‍🎓 Estudiando **Desarrollo Multiplataforma** en **IES La Mar, España**
-- 👨🏼‍💻 Apasionado por la tecnología desde niño
+- 👨🏼‍💻 Apasionado por la tecnología desde pequeño
 - 🤖 Especializándome en **Backend, Bases de Datos y Inteligencia Artificial**
 - 🎬 Dispuesto a echar un cable
 
