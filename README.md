@@ -1,12 +1,13 @@
 
-# 👋🏼 ¡Hola Mundo! Soy Javi, futuro Value driver 💡
+# 👋🏼 Hi! I'm Javi, a future Value Driver 💡  
 
-### Sobre mí
-- 🛜 Actualmente trabajando en mi propia [página web]()
-- 👨🏼‍🎓 Estudiando **Desarrollo Multiplataforma** en **IES La Mar, España**
-- 👨🏼‍💻 Apasionado por la tecnología desde pequeño
-- 🤖 Especializándome en **Backend, Bases de Datos y Inteligencia Artificial**
-- 🤝 Siempre dispuesto a echar un cable
+### About Me  
+- 🛜 Currently working on my own [website]()  
+- 👨🏼‍🎓 Studying **Multiplatform Development** at **IES La Mar, Spain**  
+- 👨🏼‍💻 Passionate about technology since childhood  
+- 🤖 Specializing in **Backend, Databases, and Artificial Intelligence**  
+- 🤝 Always happy to lend a hand  
+
 
 ---
 
