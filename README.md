@@ -3,15 +3,13 @@
 ## Sobre mí
 Estudiante de Desarrollo de Aplicaciones Multiplataforma en IES La Mar (España), apasionado por la tecnología desde pequeño. Me especializo en backend, bases de datos e inteligencia artificial.
 
-> "Los verdaderos desarrolladores no solo escriben código, resuelven problemas."
-
 ## Tecnologías que estoy aprendiendo
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 ### Bases de datos
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -21,7 +19,7 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma en IES La Mar (España)
 ### Herramientas y frameworks
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 
 ## Proyectos destacados
 *Pronto añadiré mis proyectos destacados aquí*
