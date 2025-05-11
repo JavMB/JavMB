@@ -1,5 +1,5 @@
 
-# 👋🏼 Hi! I'm Javi, a future Value Driver 💡  
+#  Hi! I'm Javi, a future Value Driver 💡  
 
 ### About Me  
 - 👨🏼‍🎓 Studying **Multiplatform Development** at **IES La Mar, Spain**  
