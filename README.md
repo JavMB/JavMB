@@ -1,8 +1,7 @@
 # Javier Mengual | Desarrollador Backend en formación
 
 ## Sobre mí
-Estudiante de Desarrollo de Aplicaciones Multiplataforma en IES La Mar (España), apasionado por la tecnología desde pequeño. Me especializo en backend, bases de datos e inteligencia artificial.
-
+Estudiante de Desarrollo de Aplicaciones Multiplataforma en IES La Mar (España), apasionado por la tecnología desde pequeño. Me especializo en backend y bases de datos.
 ## Tecnologías que estoy aprendiendo
 
 ### Lenguajes
