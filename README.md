@@ -1,7 +1,8 @@
-# Javier Mengual | Desarrollador Backend 
+# Javier Mengual | Desarrollador Backend
 
 ## Sobre mí
 Estudiante de Desarrollo de Aplicaciones Multiplataforma en IES La Mar (España), apasionado por la tecnología desde pequeño. Me especializo en backend y bases de datos.
+
 ## Tecnologías que estoy aprendiendo
 
 ### Lenguajes
@@ -17,8 +18,7 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma en IES La Mar (España)
 ### Herramientas y frameworks
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
-
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=flat&logo=angular&logoColor=white)
 
 ## Proyectos destacados
 *Pronto añadiré mis proyectos destacados aquí*
