@@ -15,7 +15,7 @@ Desarrollador Backend en proceso, actualmente cursando el Grado Superior de Desa
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ecosistema y herramientas
+### Frameworks y herramientas
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -33,4 +33,4 @@ Desarrollador Backend en proceso, actualmente cursando el Grado Superior de Desa
 
 ---
 
-*"Desarrollador apasionado comprometido con crear soluciones tecnológicas robustas, escalables y de alto rendimiento."*
+*"Desarrollador entusiasta de las nuevas tecnologías y metodologías de desarrollo. Apasionado por crear código limpio, escalable y soluciones que generen impacto real."*
