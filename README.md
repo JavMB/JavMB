@@ -33,4 +33,4 @@ Desarrollador Backend en proceso, actualmente cursando el Grado Superior de Desa
 
 ---
 
-*"Desarrollador entusiasta de las nuevas tecnologías y metodologías de desarrollo. Apasionado por crear código limpio, escalable y soluciones que generen impacto real."*
+
