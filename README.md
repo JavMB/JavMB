@@ -1,7 +1,7 @@
 # Javier Mengual | Desarrollador Backend
 
 ## Sobre mí
-Desarrollador Backend en proceso, actualmente cursando el Grado Superior de Desarrollo de Aplicaciones Multiplataforma en IES La Mar (España). Apasionado por la arquitectura de software, la optimización de bases de datos y el desarrollo de soluciones tecnológicas eficientes.
+Desarrollador Backend en formación, actualmente cursando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma en IES La Mar (España). Apasionado por crear soluciones tecnológicas eficientes, me encanta explorar la arquitectura de software, optimizar bases de datos y dar forma a sistemas que realmente marquen la diferencia.
 
 ## Tecnologías
 
@@ -26,10 +26,10 @@ Desarrollador Backend en proceso, actualmente cursando el Grado Superior de Desa
 
 
 ## Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-mengual-betancourt-326870273/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](http://javiemengual.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JavMB)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiermengual@live.com)
 
 ---
 
