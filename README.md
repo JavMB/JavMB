@@ -38,9 +38,10 @@ Always looking to grow and become better at solving real-world problems through 
 
 ### DevOps & Platform
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 ### API & Docs
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%230076D6.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
