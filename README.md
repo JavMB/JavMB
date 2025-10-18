@@ -8,7 +8,7 @@
 - 📫 How to reach me: [javiermengual@live.com](mailto:javiermengual@live.com)
 - ⚡ Fun fact: I'm truly passionate about what I do
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/javier-mengual-betancourt" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
