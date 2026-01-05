@@ -30,12 +30,4 @@
 	<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="vue" />
 </p>
 
-<details><summary>GitHub Stats</summary>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JavMB&show_icons=true&theme=dark&locale=en" alt="JavMB" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JavMB&theme=dark" alt="JavMB" /> |
-| :---: | :---: |
-
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavMB&show_icons=true&theme=dark&locale=en&layout=compact" alt="JavMB" /> |
-| :---: |
-
-</details>
